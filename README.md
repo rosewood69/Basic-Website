@@ -1,2 +1,2 @@
 # Basic-Website
-In this project i have used basic html.
+ This project is based on basic html.
